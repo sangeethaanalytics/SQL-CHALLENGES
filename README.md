@@ -11,6 +11,8 @@ Joins (INNER, LEFT, RIGHT, FULL)
 Subqueries and nested queries
 Window functions
 Conditional logic using CASE statements
+
+
 🛠️ Tools & Technologies
 SQL Server / MySQL / PostgreSQL (whichever you used)
 VS Code, DBeaver, or SQL Server Management Studio (SSMS)
